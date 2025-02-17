@@ -28,7 +28,7 @@ python3 -m venv th_road_accident_env
 
 ### **4️⃣ Install Required Packages**
 ```bash
-pip install numpy pandas ipykernel matplotlib
+pip install numpy pandas ipykernel matplotlib pyyaml
 ```
 
 ### **5️⃣ Deactivate the Virtual Environment**
@@ -44,6 +44,8 @@ pip install numpy pandas ipykernel matplotlib
 ## **📂 Folder Structure**
 ```
 Thailand-Road-Accident-Statistics/
+├── config/                   # Configuration file
+│   ├── config.yml            # Configuration file for storing data paths
 │── data/                     # Store all raw and cleaned data
 │   ├── raw/                  # Raw datasets
 │   │   ├── accident_region.csv

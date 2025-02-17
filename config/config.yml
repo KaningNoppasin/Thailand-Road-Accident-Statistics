@@ -1,0 +1,3 @@
+data:
+  raw: "../data/raw/accident_region.csv"
+  cleaned: "../data/cleaned/accident_region_cleaned.csv"
