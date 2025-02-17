@@ -6,7 +6,7 @@ This project analyzes road accident statistics in Thailand using Python and Pand
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Thailand-Road-Accident-Statistics.git
+git clone https://github.com/KaningNoppasin/Thailand-Road-Accident-Statistics.git
 cd Thailand-Road-Accident-Statistics
 ```
 
